@@ -1,0 +1,39 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/gout-heart---primary.py
+inputModule3:
+  class: File
+  path: python/other-gout---primary.py
+inputModule4:
+  class: File
+  path: python/gout---primary.py
+inputModule5:
+  class: File
+  path: python/nephropathy-gout---primary.py
+inputModule6:
+  class: File
+  path: python/gout-arthritis---primary.py
+inputModule7:
+  class: File
+  path: python/gout-monitoring---primary.py
+inputModule8:
+  class: File
+  path: python/gout-assessment---primary.py
+inputModule9:
+  class: File
+  path: python/gout-manifestation---primary.py
+inputModule10:
+  class: File
+  path: python/gout-tophi---primary.py
+inputModule11:
+  class: File
+  path: python/arthropathy-gout---primary.py
+inputModule12:
+  class: File
+  path: python/gout-specified---primary.py
+inputModule13:
+  class: File
+  path: python/output-cases.py
